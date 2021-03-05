@@ -1,2 +1,2 @@
-# sankegamer
+#snake
 Termux snake game
